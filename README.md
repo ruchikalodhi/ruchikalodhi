@@ -99,3 +99,33 @@ Past: **Google Cloud Skills Boost (Remote)** (Aug 2025 - Present)
 
 ---
 
+<h2 align="center">📊 GitHub Stats & Consistency</h2>
+
+<div align="center">
+
+  <!-- Row 1: Stats & Languages -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-stats.vercel.app/api?username=ruchikalodhi&show_icons=true&theme=radical&custom_title=Ruchika%20Lodhi's%20GitHub%20Stats" height="150" alt="stats graph" />
+  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchikalodhi&layout=compact&theme=radical" height="150" alt="languages graph" />
+  </a>
+
+  <br/>
+
+  <!-- Row 2: Streak Stats -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchikalodhi&theme=radical&hide_border=false" alt="streak graph" />
+  </a>
+
+  <br/>
+
+  <!-- Row 3: 3D Contribution Graph -->
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="800"/>
+
+  <br/>
+  
+  <!-- Row 4: Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruchikalodhi&bg_color=141321&color=8be9fd&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="Activity Graph" />
+
+</div>
