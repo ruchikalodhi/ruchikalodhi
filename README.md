@@ -84,14 +84,14 @@ Currently serving as **Design Team Lead at M-TFAC VITB**, guiding creative plann
 
 ## 💼 Experience & Leadership
 
-Now: **Design Team Lead @ Meraki - The Fine Arts Club (VITB)** (Oct 2023 - Present)
+Now: **Vice President @ Meraki - The Fine Arts Club (VITB)** (Oct 2023 - Present)
 *   Lead design projects and manage creative team efforts.
 *   Overseeing club events and initiatives.
 
 Now: **Core Design Member @ BashCraft Club VIT Bhopal** (Oct 2024 - Present)
 *   Collaborate on club branding and design creation.
 
-Now: **Design Team @ Anime Club - VIT Bhopal** (Oct 2024 - Present)
+Now: **President @ Anime Club - VIT Bhopal** (Oct 2024 - Present)
 *   Assist in promotional media and event design.
 
 Past: **Google Cloud Skills Boost (Remote)** (Aug 2025 - Present)
