@@ -30,9 +30,8 @@ Currently serving as **Design Team Lead at M-TFAC VITB**, guiding creative plann
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
+<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://isocpp.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -74,7 +73,7 @@ Currently serving as **Design Team Lead at M-TFAC VITB**, guiding creative plann
 
 **Vellore Institute of Technology, Bhopal** (2023 - 2027)
 *   **Degree**: B.Tech in Computer Science and Engineering (Core)
-*   **CGPA**: 8.66
+*   **CGPA**: 8.73
 
 **Ramakrishna Mission, Gwalior**
 *   **12th Standard**: 88%
@@ -88,44 +87,15 @@ Now: **Vice President @ Meraki - The Fine Arts Club (VITB)** (Oct 2023 - Present
 *   Lead design projects and manage creative team efforts.
 *   Overseeing club events and initiatives.
 
-Now: **Core Design Member @ BashCraft Club VIT Bhopal** (Oct 2024 - Present)
-*   Collaborate on club branding and design creation.
-
 Now: **President @ Anime Club - VIT Bhopal** (Oct 2024 - Present)
 *   Assist in promotional media and event design.
+
+Now: **Core Design Member @ BashCraft Club VIT Bhopal** (Oct 2024 - 2025)
+*   Collaborate on club branding and design creation.
 
 Past: **Google Cloud Skills Boost (Remote)** (Aug 2025 - Present)
 *   Engaged in cloud computing and application development training programs.
 
 ---
-
-<h2 align="center">📊 GitHub Stats & Consistency</h2>
-
-<div align="center">
-
-  <!-- Row 1: Stats & Languages -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-stats.vercel.app/api?username=ruchikalodhi&show_icons=true&theme=radical&custom_title=Ruchika%20Lodhi's%20GitHub%20Stats" height="150" alt="stats graph" />
-  </a>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchikalodhi&layout=compact&theme=radical" height="150" alt="languages graph" />
-  </a>
-
-  <br/>
-
-  <!-- Row 2: Streak Stats -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchikalodhi&theme=radical&hide_border=false" alt="streak graph" />
-  </a>
-
-  <br/>
-
-  <!-- Row 3: 3D Contribution Graph -->
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="800"/>
-
-  <br/>
-  
-  <!-- Row 4: Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruchikalodhi&bg_color=141321&color=8be9fd&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
