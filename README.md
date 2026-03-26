@@ -8,15 +8,19 @@
 
 <br/>
 
+<h2 align="center">Connect with Me </h2>
+
 <p align="center">
   <a href="mailto:lodhi03ruchika@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-lodhi03ruchika%40gmail.com-red?style=flat-square&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
   <a href="https://www.linkedin.com/in/ruchika-lodhi-282952289/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ruchika%20Lodhi-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Ruchika%20Lodhi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-   <a href="https://github.com/ruchikalodhi">
-    <img src="https://img.shields.io/badge/GitHub-ruchikalodhi-black?style=flat-square&logo=github" alt="GitHub"/>
+  
+  <a href="https://github.com/ruchikalodhi">
+    <img src="https://img.shields.io/badge/GitHub-ruchikalodhi-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
