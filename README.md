@@ -94,7 +94,7 @@ Now: **Vice President @ Meraki - The Fine Arts Club (VITB)** (Oct 2023 - Present
 Now: **President @ Anime Club - VIT Bhopal** (Oct 2024 - Present)
 *   Assist in promotional media and event design.
 
-Now: **Core Design Member @ BashCraft Club VIT Bhopal** (Oct 2024 - 2025)
+Past: **Core Design Member @ BashCraft Club VIT Bhopal** (Oct 2024 - 2025)
 *   Collaborate on club branding and design creation.
 
 Past: **Google Cloud Skills Boost (Remote)** (Aug 2025 - Present)
