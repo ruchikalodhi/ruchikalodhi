@@ -71,7 +71,7 @@ Currently serving as **Design Team Lead at M-TFAC VITB**, guiding creative plann
     *   UXquisite Hackathon Certification (Dec 2023)
     *   MATLAB Onramp Certification (Sep 2023)
 
-PROJECTS -
+**PROJECTS -**
 * Neuronest - AI-Powered Assistive Platform For Neurodivergent Care
 * Disease Prediction Model Using Retinal Images
 * Mika - Personalized Ai Assistant
