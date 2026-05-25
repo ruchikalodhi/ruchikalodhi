@@ -77,11 +77,6 @@ Currently serving as **Design Team Lead at M-TFAC VITB**, guiding creative plann
 
 **Vellore Institute of Technology, Bhopal** (2023 - 2027)
 *   **Degree**: B.Tech in Computer Science and Engineering (Core)
-*   **CGPA**: 8.73
-
-**Ramakrishna Mission, Gwalior**
-*   **12th Standard**: 88%
-*   **10th Standard**: 91%
 
 ---
 
