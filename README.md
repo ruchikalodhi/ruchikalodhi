@@ -87,22 +87,7 @@ Currently serving as **Design Team Lead at M-TFAC VITB**, guiding creative plann
 *   **Degree**: B.Tech in Computer Science and Engineering (Core)
 
 ---
-
-## 💼 Experience & Leadership
-
-Now: **Vice President @ Meraki - The Fine Arts Club (VITB)** (Oct 2023 - Present)
-*   Lead design projects and manage creative team efforts.
-*   Overseeing club events and initiatives.
-
-Now: **President @ Anime Club - VIT Bhopal** (Oct 2024 - Present)
-*   Assist in promotional media and event design.
-
-Past: **Core Design Member @ BashCraft Club VIT Bhopal** (Oct 2024 - 2025)
-*   Collaborate on club branding and design creation.
-
-Past: **Google Cloud Skills Boost (Remote)** (Aug 2025 - Present)
-*   Engaged in cloud computing and application development training programs.
-
+![GitHub Space Shooter](game.gif)
 ---
 
 </div>
